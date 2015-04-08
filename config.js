@@ -16,6 +16,7 @@ System.config({
     "aurelia-router": "github:aurelia/router@0.6.0",
     "bootstrap": "github:twbs/bootstrap@3.3.2",
     "font-awesome": "npm:font-awesome@4.3.0",
+    "pouchdb": "github:pouchdb/pouchdb@3.4.0",
     "github:aurelia/binding@0.4.0": {
       "aurelia-dependency-injection": "github:aurelia/dependency-injection@0.5.0",
       "aurelia-metadata": "github:aurelia/metadata@0.3.4",
